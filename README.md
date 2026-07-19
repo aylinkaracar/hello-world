@@ -1,5 +1,4 @@
 # hello-world
-This repository is for practicing the GitHub Flow
 AYLİN KARACAR   |    DATA ANALYST
 Data-driven professional with 15+ years of experience in data analysis, reporting, and strategic decision-making across
 engineering, sales, and sustainability domains. Skilled in SQL, Python, Power BI, Tableau, and advanced Excel, with a
